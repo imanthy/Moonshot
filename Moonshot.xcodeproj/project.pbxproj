@@ -19,6 +19,7 @@
 		07776FB22A21C29200362689 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07776FB12A21C29200362689 /* Color-Theme.swift */; };
 		07776FB42A26B1E400362689 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07776FB32A26B1E400362689 /* MissionView.swift */; };
 		07776FB62A26C6D400362689 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07776FB52A26C6D400362689 /* AstronautView.swift */; };
+		07776FBB2A28589400362689 /* HelperViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07776FBA2A28589400362689 /* HelperViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		07776FB12A21C29200362689 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		07776FB32A26B1E400362689 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		07776FB52A26C6D400362689 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		07776FBA2A28589400362689 /* HelperViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 			children = (
 				07776F9B2A1EDD1D00362689 /* ContentView.swift */,
 				07776FB32A26B1E400362689 /* MissionView.swift */,
+				07776FBA2A28589400362689 /* HelperViews.swift */,
 				07776FB52A26C6D400362689 /* AstronautView.swift */,
 			);
 			path = Views;
@@ -187,6 +190,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07776FBB2A28589400362689 /* HelperViews.swift in Sources */,
 				07776FB42A26B1E400362689 /* MissionView.swift in Sources */,
 				07776FAC2A2025A800362689 /* Astronaut.swift in Sources */,
 				07776FB62A26C6D400362689 /* AstronautView.swift in Sources */,
